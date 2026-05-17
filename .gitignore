@@ -46,6 +46,8 @@ doxygen/
 .DS_Store
 .directory
 build/
+build-client/
+build-server/
 compile_commands.json
 .devcontainer/*
 __pycache__/
